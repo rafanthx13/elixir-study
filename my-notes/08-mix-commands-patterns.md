@@ -2,6 +2,20 @@
 
 Mix é como o CLI do Elixir, semelhante ao Django do Pytohn, permite criar várias coisas já prontas
 
+## GIt ignore do exliri
+
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
+.elixir_ls/
+
+
 ## OSB de Elixir
 
 **1**
